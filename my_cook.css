@@ -51,6 +51,8 @@ ul {
     height: 100%;
     width: 50%;
     border-radius: 10px 0px 0px 0px;
+    color: #111111;
+    font-size: 24px;
 }
 #alcohol_button {
     position: absolute;
@@ -59,6 +61,8 @@ ul {
     height: 100%;
     width: 50%;
     border-radius: 0px 10px 0px 0px;
+    color: #111111;
+    font-size: 24px;
 }
 .menu_char {
     font-size: 28px;
